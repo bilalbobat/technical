@@ -31,12 +31,6 @@ logging.basicConfig(
     filemode='w'  # Set filemode to 'w' to overwrite the log file
 )
 
-# Q1
-"""
-Question: How can I create a function to log both the question and the corresponding SQL query?
-"""
-def log_query  
-
 from jinja2 import Template
 
 # Example
